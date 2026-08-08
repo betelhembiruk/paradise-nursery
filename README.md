@@ -1,16 +1,32 @@
-# React + Vite
+# Paradise Nursery Shopping Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Name
 
-Currently, two official plugins are available:
+**Paradise Nursery Shopping Application**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Project Description
 
-## React Compiler
+Paradise Nursery is an online plant shopping application that allows users to browse a collection of plants and purchase them through a dynamic shopping cart.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The application provides a user-friendly shopping experience where users can:
 
-## Expanding the ESLint configuration
+* Browse different plants available in the nursery
+* View plant names, descriptions, images, and prices
+* Add plants to the shopping cart
+* Increase or decrease the quantity of plants
+* Remove plants from the shopping cart
+* View the total number of items in the cart
+* Calculate the total cost of the items in the cart
+* Navigate between the shopping and cart pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+* React
+* JavaScript
+* HTML
+* CSS
+* Vite
+
+## Project Purpose
+
+This project demonstrates the use of React concepts such as components, state management, event handling, conditional rendering, and dynamic user interfaces to create an interactive e-commerce shopping application.
